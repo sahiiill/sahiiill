@@ -1,6 +1,5 @@
 # Welcome to Sahil's space.
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 I'm a Computer Engineering graduate and a tech enthusiast currently pursuing my Master's in Web and Data Science at the University of Koblenz. I'm fascinated by how technology can solve complex problems (and sometimes create new ones—looking at you, debugging!).
 
@@ -15,9 +14,4 @@ I love experimenting with software, tinkering with gadgets, and finding creative
 
 Hasta la vista, baby. May the source be with you :P
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/sahiiill/sahiiill/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
